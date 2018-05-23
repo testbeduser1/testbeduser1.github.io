@@ -1,0 +1,59 @@
+
+
+.q_progress_bar .progress_title_holder {
+margin: 0 0 9px 0;
+}
+.footer_top .widget_nav_menu ul li {
+padding: 0;
+}
+.carousel-inner h2 {
+margin: 10px 0 18px 0;
+}
+.wpcf7 form.wpcf7-form p {
+margin-bottom: 12px;
+}
+.call_to_action.simple .text_wrapper>.qbutton {
+margin: 0 0 0 43px;
+}
+.mobile_menu_button .fa {
+font-size: 19px !important;
+}
+
+.side_menu_button>a {
+padding: 0 5px 0 12px;
+}
+
+header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a{
+    opacity: 1;
+}
+
+header.sticky .side_menu_button a:hover {
+color: #1c51c6;
+opacity: 1;
+}
+
+.mobile_menu_button span {
+color: #111;
+}
+
+@media only screen and (max-width: 1000px) {
+.side_menu_button > a {
+color: #111;
+}
+}
+
+@media only screen and (max-width: 768px) {
+.footer_responsive_adv .footer_top .four_columns .column1, .footer_responsive_adv .footer_top .four_columns .column2, .footer_responsive_adv .footer_top .four_columns .column3 {
+margin: 0 0 40px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.title.title_size_medium h1 {
+font-size: 25px;
+}
+}
+
+.side_menu .widget {
+    margin: 0 0 35px;
+}
